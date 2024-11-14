@@ -10,7 +10,7 @@
 <li>JS</li>
 <br>
 
-<b>Link: https://portfolioofprince.netlify.app/</b>
+<b>Link: https://sadab-hussain.github.io/My-Portfolio/</b>
 
 
 # 🎥 Video of the Website
